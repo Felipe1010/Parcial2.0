@@ -1,0 +1,23 @@
+# ninja log v5
+5	608	6999844531707211	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/main.cpp.obj	cf045d83daf63816
+609	754	6999844533107816	Parcial_ListaEnlazada_Andres_Sanabria.exe	2735ff18e8f16df2
+3	325	6999447370798065	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/ListaEnlazada.cpp.obj	359cd8725ed3b954
+13	853	6999834085982778	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/CAMBIAR.cpp.obj	61cd99230a6ff8c9
+10	295	6999939164255659	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Producto.cpp.obj	bd7e5ee7c192dce1
+19	459	6999939165910942	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Cliente.cpp.obj	c9532440ab0f25f3
+4	486	6999939166266542	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Pedidos.cpp.obj	76d28e413939ad19
+16	466	7000400011312432	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/ListaEnlazada.cpp.obj	359cd8725ed3b954
+20	535	7000400011912423	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Cliente.cpp.obj	c9532440ab0f25f3
+11	542	7000400012012423	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Pedidos.cpp.obj	76d28e413939ad19
+5	623	7000400012812754	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/main.cpp.obj	cf045d83daf63816
+10	394	7000406131119097	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/ListaEnlazada.cpp.obj	359cd8725ed3b954
+15	455	7000406131719089	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Pedidos.cpp.obj	76d28e413939ad19
+3	500	7000406132119551	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/main.cpp.obj	cf045d83daf63816
+9	316	7000416950740829	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/ListaEnlazada.cpp.obj	359cd8725ed3b954
+13	507	7000416952545374	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Pedidos.cpp.obj	76d28e413939ad19
+3	509	7000416952640633	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/main.cpp.obj	cf045d83daf63816
+317	700	7000416954541377	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Cliente.cpp.obj	c9532440ab0f25f3
+39	317	7000418259351032	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/ListaEnlazada.cpp.obj	359cd8725ed3b954
+44	376	7000418259951733	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Cliente.cpp.obj	c9532440ab0f25f3
+8	385	7000418259951733	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/Pedidos.cpp.obj	76d28e413939ad19
+3	435	7000418260453723	CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir/main.cpp.obj	cf045d83daf63816

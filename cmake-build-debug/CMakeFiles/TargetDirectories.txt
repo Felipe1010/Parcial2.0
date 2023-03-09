@@ -1,0 +1,3 @@
+C:/Users/Andrés/CLionProjects/Parcial_ListaEnlazada_Andres_Sanabria/cmake-build-debug/CMakeFiles/Parcial_ListaEnlazada_Andres_Sanabria.dir
+C:/Users/Andrés/CLionProjects/Parcial_ListaEnlazada_Andres_Sanabria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrés/CLionProjects/Parcial_ListaEnlazada_Andres_Sanabria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
